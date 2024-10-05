@@ -1,4 +1,4 @@
-IN1013 Databases (PRD1 A 2024/25)
+  Database
       Student Information:
 Name: Mehmet Şevik
 Student ID: 230066258
