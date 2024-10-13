@@ -1,5 +1,4 @@
-Database  
-Student Information:
+Database  Student Information:
       
 Name: Mehmet Şevik
 
