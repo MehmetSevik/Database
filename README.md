@@ -1,7 +1,7 @@
 Database
 Student Information:
       
-Name: Mehmet Şevik
+Name: Mehmet Sevik
 
 Student ID: 230066258
 
