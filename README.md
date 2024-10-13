@@ -1,4 +1,4 @@
-IN1013Database
+Database
 Student Information:
       
 Name: Mehmet Şevik
