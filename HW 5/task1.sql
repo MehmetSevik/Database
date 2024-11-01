@@ -10,7 +10,7 @@ ORDER BY cust_name DESC;
 -- 3
 SELECT DISTINCT cust_name 
 FROM restBill 
-WHERE cust_name LIKE 'C%';
+WHERE cust_name LIKE '% C%';
 -- 4
 SELECT first_name, surname 
 FROM restStaff 
